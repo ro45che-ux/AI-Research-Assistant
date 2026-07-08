@@ -1,4 +1,4 @@
-# 🤖 AI Research Assistant (RAG)
+# 🤖 AskMyDocs (RAG)
 
 A full-stack Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask questions using natural language. The system performs semantic search with Gemini Embeddings and ChromaDB before generating context-aware responses using Gemini AI.
 
